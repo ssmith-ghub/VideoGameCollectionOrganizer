@@ -1,1 +1,7 @@
 # VideoGameCollectionOrganizer
+
+The Video Game Collection Organizer will be a user driven web application where gamers can create a user profile and create collections of video games.  Users will be able to create a new game collection, upload and add to an existing collecction with prices of the game, quality of physical copies, and photo's of each game as well as their entire collection.  Future versions of this web application will act as an organization tool(which is what my capstone project will show) and a social media platform for game collectors to find games, like minded gamers, buy/sell/trade games and keep up with pricing and rarity trends in the game collection market.
+
+Using C#, ASP.NET, and Blazor, this application will have an entirely user driven data base where users will add games with information such as game name, console/PC, Publisher, price, quality, quantities, etc.  This will allow other users to pull already created games in the DB to their collection, while also being able to contribute new additions to the DB themselves.  This will create a marketplace that will change based off of user input and user trends when it comes to prices, qualities and rarities of games.  I want this to be a one stop shop for game collectors.
+
+In the future I hope to include options for consoles, gaming accessories and video game themed collectibles and maybe even expand beyond video games
